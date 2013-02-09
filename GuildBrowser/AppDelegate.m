@@ -4,7 +4,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
-    // ALEX Comment
+    // ALEX Comment & more comments
     // Override point for customization after application launch.
     [self customizeAppearance];
     
